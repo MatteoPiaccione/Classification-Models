@@ -1,2 +1,2 @@
 # Classification-Models
-This repository contains projects of Classification problems.
+This repository contains a collections projects of Classification problems.
